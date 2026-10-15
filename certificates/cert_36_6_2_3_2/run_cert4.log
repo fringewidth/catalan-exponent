@@ -1,0 +1,21 @@
+[   0.9s] paper design (48, 7, 4, 4, 2): B (49 x 48) built; rows checked against (3); zeta(2) failures 0; largest denominator prime 61 (H0 = 65)
+[   1.0s] P3 paper sigma=+0: 48/48 pivots equal Table 1; swaps []
+[   1.0s] P3 paper sigma=+1: 48/48 pivots equal Table 1; swaps [(30, 31), (45, 46)]
+[   1.0s] P3 paper sigma=-1: 48/48 pivots equal Table 1; swaps []
+[   2.2s] new design (36, 6, 2, 3, 2): B (37 x 36) built; rows checked against (3); zeta(2) failures 0; largest denominator prime 47 (H0 = 49)
+[   2.6s] N4 new sigma=+0: 36/36 nonzero pivots mod 53; swaps [(19, 20)]
+[   2.6s]     1, 49, 23, 52, 23, 10, 22, 5, 33, 39, 13, 21, 13, 44, 34, 39
+[   2.6s]     27, 31, 34, 31, 43, 18, 35, 1, 13, 34, 37, 7, 30, 8, 2, 48
+[   2.6s]     41, 14, 4, 8
+[   2.6s] N4 new sigma=+1: 36/36 nonzero pivots mod 53; swaps [(14, 15)]
+[   2.6s]     3, 9, 23, 20, 1, 5, 49, 5, 35, 51, 47, 24, 44, 31, 35, 39
+[   2.6s]     24, 21, 11, 31, 41, 36, 22, 38, 11, 40, 7, 49, 14, 34, 32, 3
+[   2.6s]     27, 3, 48, 9
+[   2.6s] N4 new sigma=-1: 36/36 nonzero pivots mod 53; swaps [(12, 13)]
+[   2.6s]     52, 6, 47, 6, 5, 26, 26, 27, 20, 21, 16, 14, 52, 9, 15, 41
+[   2.6s]     10, 23, 12, 22, 44, 37, 21, 36, 22, 7, 11, 3, 33, 18, 48, 25
+[   2.6s]     28, 26, 19, 33
+[   2.6s] LaTeX table written to cat_cert4_new_table.tex
+[   2.6s] gates: {'P1': 0, 'P2': 0, 'P3': 0, 'N1': 0, 'N2': 0, 'N3': 0, 'N4': 0}
+GATE_FAILS = 0
+log saved to /private/tmp/claude-501/-Users-hrishik-Codebases-audience-builder/fac7ad98-f5f4-4108-b11a-169b6401c025/scratchpad/race/catalan/work/cert_36_6_2_3_2/cat_cert4_new_log_20261015_190743.txt

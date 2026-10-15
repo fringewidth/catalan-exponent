@@ -1,0 +1,10 @@
+[   1.3s] design (36, 6, 2, 3, 2): f_low = -2.2787357 (integral 4825/2); 72 coefficients per sequence (16 finite, 18 real tails, 19 conjugate pairs)
+[   1.4s] kappa=2: 71 of 72 directions kept; max |coefficient| 5.78
+[   1.4s] kappa=2: bound -2.2812647 (before rounding -2.281264736)
+[   1.4s]   contact (within 3e-4): x in [-1.0000, -0.1022] U [0.0991, 0.9926]; s in [0.0089, 0.9999]
+[   1.5s] kappa=1: 71 of 72 directions kept; max |coefficient| 91.1
+[   1.5s] kappa=1: bound -2.4192376 (before rounding -2.419237647), lambda 2.724254
+[   1.5s] PROOF SCORE (tail form, rounded coefficients) = +0.002529   (cat_tail_opt.py +0.00224; 300 free coefficients +0.00244; best possible ~0.00269)
+[   1.5s] gates: {'T0': 0, 'T2': 0, 'T1': 0, 'T3': 0}
+[   1.5s] cond(Gram) = 1.69e+16
+GATE_FAILS = 0

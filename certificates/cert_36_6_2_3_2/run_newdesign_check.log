@@ -1,0 +1,15 @@
+[    0.0s] design (36, 6, 2, 3, 2): a=8, L=44, C=47, H=49, A=14
+[    0.0s] S: basic conditions checked; R0 = R in 6174 (N,p) cases
+[    0.0s] S: row supports inside [A, H-1] = [14, 48] for rows 0..35; auxiliary row 36: [13, 48]
+[    0.0s] Z: zeta(2) coefficient exactly 0 in all 1406 raw entries (rows 0..36)
+[    0.1s] B: (37 x 36) matrix built
+[    0.1s] B: largest denominator prime 47 (<= H = 49)
+[    0.2s] B: sigma=+0: rank mod 53 = 36/36
+[    0.2s] B: sigma=+1: rank mod 53 = 36/36
+[    0.2s] B: sigma=-1: rank mod 53 = 36/36
+[    0.3s] V: Delta_1 built (n = 36); valuations for primes 2 sqrt(H) < p < H + 60
+[    1.9s] V: p : v_p (bound)  17:-72(-72)  19:-69(-71)  23:-65(-66)  29:-49(-50)  31:-43(-43)  37:-25(-25)  41:-13(-13)  43:-5(-7)  47:-2(-2)
+[    1.9s] V: 9 primes in range; attained exactly at 5; max slack 2; primes above H: all v_p >= 0: True
+[    1.9s] gates: {'S': 0, 'Z': 0, 'B': 0, 'V': 0}
+GATE_FAILS = 0
+log saved to /private/tmp/claude-501/-Users-hrishik-Codebases-audience-builder/fac7ad98-f5f4-4108-b11a-169b6401c025/scratchpad/race/catalan/work/cert_36_6_2_3_2/cat_newdesign_check_log_20261015_191056.txt

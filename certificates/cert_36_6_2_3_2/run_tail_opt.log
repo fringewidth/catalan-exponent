@@ -1,0 +1,11 @@
+[   1.6s] design (36, 6, 2, 3, 2): f_low = -2.2787357 (integral 4825/2); 46 coefficients per sequence (16 finite, 12 real tails, 9 conjugate pairs)
+[   2.5s] kappa=2: 42 of 46 directions kept; max |coefficient| 14.2
+[   2.5s] kappa=2: bound -2.2809196 (before rounding -2.280919630)
+[   2.5s]   contact (within 3e-4): x in [-1.0000, -0.1154] U [0.1125, 0.9866]; s in [0.0153, 0.9999]
+[   2.8s] kappa=1: 42 of 46 directions kept; max |coefficient| 45.1
+[   2.8s] kappa=1: bound -2.4188005 (before rounding -2.418800516), lambda 2.725091
+[   2.8s] PROOF SCORE (tail form, rounded coefficients) = +0.002184   (300-coefficient form: +0.00244; paper's design as printed: +0.00013)
+[   2.8s] gates: {'T0': 0, 'T2': 0, 'T1': 0, 'T3': 0}
+[   2.8s] cond(Gram) = 7.82e+15
+GATE_FAILS = 0
+log saved to /private/tmp/claude-501/-Users-hrishik-Codebases-audience-builder/fac7ad98-f5f4-4108-b11a-169b6401c025/scratchpad/race/catalan/work/cert_36_6_2_3_2/cat_tail_opt_log_20261015_190749.txt

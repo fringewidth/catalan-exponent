@@ -1,0 +1,29 @@
+{
+  "design": [
+    36,
+    6,
+    2,
+    3,
+    2
+  ],
+  "H0": 49,
+  "A0": 14,
+  "prime": null,
+  "f_low_lower": "-2.2787356822795735606",
+  "certificate_input": "cat_tail_edges_out.json",
+  "gamma_lower": 0.00252905384936,
+  "U2_upper": -2.2812647361289353,
+  "U1_upper": -2.4192376465502576,
+  "Sigma2_lower": -2.5819075722993996,
+  "Sigma1_lower": -2.992664633367443,
+  "lambda1": 2.7242538218069274,
+  "rho1_upper": 5.14270132270142,
+  "second_case_coefficient": 2.936673275317051,
+  "rho2_upper": 6.027643464198217,
+  "mu_upper": 2401.740991131532,
+  "gates": {
+    "cert7": 0,
+    "cert4": 0,
+    "structural": 0
+  }
+}

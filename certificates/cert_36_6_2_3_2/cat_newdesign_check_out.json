@@ -1,0 +1,147 @@
+{
+ "script": "cat_newdesign_check.py",
+ "design": [
+  36,
+  6,
+  2,
+  3,
+  2
+ ],
+ "gates": {
+  "S": 0,
+  "Z": 0,
+  "B": 0,
+  "V": 0
+ },
+ "B": {
+  "0": {
+   "rank_mod_p": 36
+  },
+  "1": {
+   "rank_mod_p": 36
+  },
+  "-1": {
+   "rank_mod_p": 36
+  }
+ },
+ "B_max_den_prime": 47,
+ "V": [
+  {
+   "p": 17,
+   "vp": -72,
+   "bound": -72
+  },
+  {
+   "p": 19,
+   "vp": -69,
+   "bound": -71
+  },
+  {
+   "p": 23,
+   "vp": -65,
+   "bound": -66
+  },
+  {
+   "p": 29,
+   "vp": -49,
+   "bound": -50
+  },
+  {
+   "p": 31,
+   "vp": -43,
+   "bound": -43
+  },
+  {
+   "p": 37,
+   "vp": -25,
+   "bound": -25
+  },
+  {
+   "p": 41,
+   "vp": -13,
+   "bound": -13
+  },
+  {
+   "p": 43,
+   "vp": -5,
+   "bound": -7
+  },
+  {
+   "p": 47,
+   "vp": -2,
+   "bound": -2
+  },
+  {
+   "p": 53,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 59,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 61,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 67,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 71,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 73,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 79,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 83,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 89,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 97,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 101,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 103,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 107,
+   "vp": 0,
+   "bound": null
+  },
+  {
+   "p": 109,
+   "vp": 0,
+   "bound": null
+  }
+ ],
+ "GATE_FAILS": 0,
+ "seconds": 1.9
+}
