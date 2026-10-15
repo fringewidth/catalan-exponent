@@ -47,7 +47,8 @@ design by 0.00262, so the certificate above (gap 0.00253) is within four percent
 certification scripts; run `cat_cert4_new.py`, `cat_tail_opt.py`, `cat_tail_edges.py`, `cat_cert7_new.py`
 (needs mpmath) and `cat_newdesign_check.py` (needs mpmath) in that directory, then `python3 scripts/mu_cert.py <dir>`.
 `scripts/search.py` is the design search (objective mu, quick evaluator of `cat_design_search.py`);
-`certificates/search_results.jsonl` lists every design evaluated.
+`certificates/search_results.jsonl` lists every design evaluated (1,352 designs, 45 minutes on 11 cores; the
+runner-up by the quick evaluator is (52, 8, 3, 4, 3), five percent worse).
 
 **What is and is not claimed.** The mathematics is Carreira's (and Jha's, Litsey's and OpenAI's); this package
 changes the design and re-runs the certification. The design-dependent steps of Theorem 35 were checked as listed:
